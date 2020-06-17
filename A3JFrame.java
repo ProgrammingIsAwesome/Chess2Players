@@ -1,9 +1,5 @@
 /*
-   The JFrame class for Assignment Three.  You do not need to modify
-   this class.
-
-   An instance of the A3JPanel class is created and added to the content
-   pane of the JFrame.
+   The JFrame class for the 2 player Chess game.
 */
 
 import java.awt.*;
