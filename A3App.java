@@ -1,7 +1,5 @@
 /*
-   The application class for Assignment Three.  You may modify the
-   title and dimensions of the window.  The maximum allowed size
-   for the window is 800x600.
+   The application class for  Chess Game.
 */
 
 public class A3App {
